@@ -1,6 +1,5 @@
 package envio_de_multiplas_mensagens_com_timeout;
-//Este programa permite que o usuario envie
-//infinitas mensagens para o servidor
+
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.ConnectException;
